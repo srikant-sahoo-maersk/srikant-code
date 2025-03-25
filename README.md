@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hey there 👋
 
-I am **`Srikant_Sahoo`**, an UX Designer🎨 and a Full Stack Developer👨🏻‍💻 based in Bhubaneswar, India.
-- 🔭 I’m currently working with maersk and side-by-side on some of my personal projects like Metab, Reflect, Bladers Multiplayer, Cakeshake and My-portfolio.
+I am **`Srikant_Sahoo`**, I was a UX Designer🎨/wanted to become one, but it seems I am a Full Stack Developer👨🏻‍💻 now. You can see my GitHub profile to relate.
+- 🔭 I’m currently working with Maersk.
 - 🌱 I’m currently learning Blender, Unity, C#, Flutter, React Native and Psychology. 
 - 🤔 I’m looking for help with someone experienced in building desktop apps. 
-- 💬 Ask me about Designing, UX, Frontend and Backend.
+- 💬 Ask me about Designing, UX, Frontend, and Backend.
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/srikant-design), [Twitter](https://twitter.com/srikant_design), [Dribbble](https://dribbble.com/srikant_design)
 - 😄 Pronouns: He/Him
 
 ---
 
-Check out my portfolio if you are interested to know more about me 👉[srikantsahoo.now.sh](https://srikantsahoo.now.sh) It's LIVE! 🔴😃
+Check out my portfolio if you are interested in knowing more about me 👉[srikantsahoo.now.sh](https://srikantsahoo.now.sh) It's LIVE! 🔴😃
 
 ---
 
@@ -23,7 +23,7 @@ Here are some stats:
 
 ---
 
-**Note** : The below Stats are counted after Decemeber 2020. Earlier contributions are not included.  
+**Note**: The below Stats are counted after December 2020. Earlier contributions are not included.  
 
 
 [![Srikant's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@srikantsahoo)](https://wakatime.com/@srikantsahoo)  
